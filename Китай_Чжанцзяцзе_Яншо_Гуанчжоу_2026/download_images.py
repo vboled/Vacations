@@ -25,13 +25,14 @@ JOBS = {
     "ys_xianggong":   ("Xianggong", 4),
     "ys_impression":  ("Impression Sanjie Liu Yangshuo show", 4),
     "ys_weststreet":  ("West Street Yangshuo", 5),
-    # Guangzhou
-    "gz_canton":      ("Canton Tower Guangzhou night", 3),
-    "gz_beijinglu":   ("Beijing Road pedestrian street Guangzhou", 3),
-    "gz_chenclan":    ("Chen Clan Ancestral Hall Guangzhou", 4),
-    "gz_shamian":     ("Shamian Island Guangzhou", 4),
-    "gz_pearl":       ("Pearl River Guangzhou night skyline", 3),
-    "gz_shangxiajiu": ("Shangxiajiu Pedestrian Street Guangzhou", 3),
+    # Shenzhen
+    "sz_pingan":      ("Ping An Finance Centre Shenzhen", 2),
+    "sz_skyline":     ("Shenzhen skyline Futian", 2),
+    "sz_civic":       ("Shenzhen Civic Center", 1),
+    "sz_bay":         ("Shenzhen Bay Park", 1),
+    "sz_seaworld":    ("Sea World Shekou Shenzhen", 1),
+    "sz_huaqiangbei": ("Huaqiangbei Shenzhen electronics market", 1),
+    "sz_dongmen":     ("Dongmen Pedestrian Street Shenzhen", 1),
 }
 
 API = "https://commons.wikimedia.org/w/api.php"
