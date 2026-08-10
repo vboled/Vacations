@@ -45,7 +45,8 @@ CSS = """
 @page { size: A4; margin: 15mm 13mm 16mm 13mm; }
 * { box-sizing: border-box; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 body {
-  font-family: "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", Arial, sans-serif;
+  font-family: "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol",
+               "Microsoft YaHei", "Noto Sans CJK SC", "PingFang SC", Arial, sans-serif;
   font-size: 10.5pt; line-height: 1.5; color: #24292e;
   max-width: 840px; margin: 0 auto; padding: 0 4px;
 }
@@ -89,7 +90,7 @@ h2, h3, table, blockquote, pre { page-break-inside: avoid; }
 
 doc = f"""<!doctype html>
 <html lang="ru"><head><meta charset="utf-8">
-<title>Чжанцзяцзе · Яншо · Шэньчжэнь — маршрут</title>
+<title>Чжанцзяцзе · Яншо · Гуанчжоу — маршрут</title>
 <style>{CSS}</style></head>
 <body>{html_body}</body></html>"""
 

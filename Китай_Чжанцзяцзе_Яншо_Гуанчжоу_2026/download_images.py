@@ -25,6 +25,12 @@ JOBS = {
     "ys_xianggong":   ("Xianggong", 4),
     "ys_impression":  ("Impression Sanjie Liu Yangshuo show", 4),
     "ys_weststreet":  ("West Street Yangshuo", 5),
+    # Guangzhou
+    "gz_canton":      ("Canton Tower Guangzhou", 3),
+    "gz_shamian":     ("Shamian Island Guangzhou", 3),
+    "gz_chenclan":    ("Chen Clan Ancestral Hall Guangzhou", 2),
+    "gz_pearlriver":  ("Pearl River Guangzhou night", 3),
+    "gz_beijinglu":   ("Beijing Road Guangzhou", 3),
     # Shenzhen
     "sz_pingan":      ("Ping An Finance Centre Shenzhen", 2),
     "sz_skyline":     ("Shenzhen skyline Futian", 2),
